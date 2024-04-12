@@ -1,3 +1,5 @@
+# Automatic_API
+
 ## Quiz- 14 Rishitha Gullapalli
 
 # Command used to install the CLI globally :
